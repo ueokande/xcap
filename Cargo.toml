@@ -1,0 +1,6 @@
+[package]
+name = "xcap"
+version = "0.1.0"
+authors = ["Shin'ya Ueoka <ueokande@i-beam.org>"]
+
+[dependencies]
