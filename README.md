@@ -1,0 +1,2 @@
+# xcap
+Capture X window
